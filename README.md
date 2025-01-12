@@ -36,7 +36,7 @@ Features
 Installation
 ------------
 
-To include **javaGraphicalManipulator** in your Java project, download the `javaGraphicalManipulator.class` file and save in your working directory
+To include **javaGraphicalManipulator** in your Java project, download the `javaGraphicalManipulator.java` file and save in your working directory
 You can then access all the methods of the library
 
 Quick Start
