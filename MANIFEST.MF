@@ -1,0 +1,11 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include javaGraphicalManipulator/src *
+recursive-include javaGraphicalManipulator/resources *
+global-include *.py
+global-include *.java
+prune .git
+prune .idea
+Manifest-Version: 1.0
+Main-Class: main.java.Main
